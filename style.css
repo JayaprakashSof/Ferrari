@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(background-img.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #343a40;
+}
+
+header {
+    padding: 20px 0;
+}
+
+nav .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    
+}
+
+.brand-logo{
+    width: 80px !important;
+    height: 40px; 
+    margin-right: 10px;
+
+}
+
+main {
+    margin-top: 50px;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.fab{
+    color: black !important;
+}
